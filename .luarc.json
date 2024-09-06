@@ -1,0 +1,9 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "set",
+        "local",
+        "on_attach",
+        "rustfmt_autosave"
+    ]
+}
